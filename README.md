@@ -1,8 +1,12 @@
 # ENEL-645 Term Project
 
-**Topic** - Playing Cards Classification using Deep Learning
+A project on classification of playing cards using Deep Learning.
 
-## Repository structure
+## About
+
+In this project, we used various convolutional neural networks to classify playing cards, and then the best performing model was used to create the classfication demonstration [video](sample_apps/sample_video/sample_video.mp4). You can find more information about it in the project [report](Project_Report.pdf) and [presentation](Project_Presentation.pptx).
+
+## Folder Structure
 
 Here is a brief description of the contents of each folder.
 
